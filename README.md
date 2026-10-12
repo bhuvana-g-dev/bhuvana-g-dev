@@ -21,12 +21,15 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 ## Tech stack
 
 **Frontend:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS
+
 **Backend:** Node.js, Express, Python, FastAPI
+
 **Database & Auth:** MongoDB, Firebase (Firestore, Authentication)
+
 **Deploy:** Vercel, Render
 
 ## Contact
 
 [Portfolio](https://portfolio-kappa-sable-18.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bhuvaneshwari-g06)
 
-<img src="(https://bhuvana.goatcounter.com/count)" alt="" width="1" height="1">
+<img src="https://bhuvana.goatcounter.com/count?p=/github-profile" alt="" width="1" height="1">
