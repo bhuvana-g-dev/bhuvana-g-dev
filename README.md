@@ -27,4 +27,4 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 
 ## Contact
 
-[Portfolio](https://bhuvana.dev) · [LinkedIn](https://www.linkedin.com/in/bhuvaneshwari-g06)
+[Portfolio](https://bhuvana.dev](https://portfolio-kappa-sable-18.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bhuvaneshwari-g06)
