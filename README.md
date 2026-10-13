@@ -36,4 +36,4 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 
 ## Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvana-g-dev&color=gold&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://bhuvana.goatcounter.com/count?p=/github-profile" alt="Profile Views" />
