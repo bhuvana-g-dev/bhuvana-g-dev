@@ -36,4 +36,6 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 
 ## Profile Views
 
-<img src="https://bhuvana.goatcounter.com/count?p=/github-profile" alt="Profile Views" />
+<img src="https://bhuvana.goatcounter.com/count?p=/github-profile" width="1" height="1" alt="" />
+
+![Profile Views](https://bhuvana.goatcounter.com/counter//github-profile.svg)
