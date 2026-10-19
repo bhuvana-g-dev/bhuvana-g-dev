@@ -16,7 +16,7 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 
 ## Currently working on
 
-- [Project name] - [one line about it]
+- Hush  -  The AI That Knows When to Speak
 
 ## Tech stack
 
