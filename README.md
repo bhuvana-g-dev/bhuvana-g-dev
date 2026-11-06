@@ -19,7 +19,7 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 
 ## Currently working on
 
-- **[Hush](https://github.com/bhuvana-g-dev/hush-meeting-copilot)** - The AI That Knows When to Speak
+- **[Problem 360](https://github.com/bhuvana-g-dev/problem-360)** - Civic issue reporting platform 
 
 ## Tech stack
 
