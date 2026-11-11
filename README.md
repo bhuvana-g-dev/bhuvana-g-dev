@@ -14,6 +14,7 @@ Final-year B.Sc. Computer Science student at Thiagarajar College, Madurai (gradu
 - **[Royal Spice Garden](https://github.com/bhuvana-g-dev/royal-spice-garden-frontend)** ([live](https://royal-spice-garden-frontend.vercel.app)) - Restaurant site with a Node.js + MongoDB backend and admin panel ([backend](https://github.com/bhuvana-g-dev/royal-spice-garden-backend)).
 
 ## Contributed to
+- **[EventSapiens](https://github.com/SapiensCampus/EventSapiens/pull/45)** - Redesigned the event card to highlight the registration deadline with a days-left countdown (merged).
 
 - **[cuchi-pomodoro](https://github.com/LeidiFlores/cuchi-pomodoro/pull/72)** - Added a spacebar shortcut to toggle the timer (merged).
 
